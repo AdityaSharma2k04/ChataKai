@@ -26,7 +26,7 @@ Built with flexibility in mind, ChataKai uses environment variables (`.env`) for
 - **Firebase** – Authentication, Firestore, Storage
 - **Kai AI + DeepSeek R1** – AI assistant integration
 - **Google Sign-In** – Social login support
-- **Image Picker & Cropper** – Media customization
+- **Image Picker** – Media customization
 - **Shared Preferences** – Local data storage
 - **Cached Network Image** – Optimized image loading
 - **Flutter Markdown & SVG** – Rich UI support
